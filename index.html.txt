@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Armastock</title>
+</head>
+<body>
+	Soon!
+</body>
+</html>
